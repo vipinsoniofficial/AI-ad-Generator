@@ -33,3 +33,8 @@ Ensure you have the following:
 
 ```bash
 pip install -r requirements.txt
+
+```
+Run:
+```
+treamlit run app.py
