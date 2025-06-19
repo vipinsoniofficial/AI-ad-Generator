@@ -37,4 +37,4 @@ pip install -r requirements.txt
 ```
 Run:
 ```
-treamlit run app.py
+streamlit run app.py
